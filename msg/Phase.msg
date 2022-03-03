@@ -1,3 +1,5 @@
+std_msgs/Header header
+
 int32 LEFT_STANCE=0
 int32 RIGHT_SWING=0
 int32 RIGHT_STANCE=1
