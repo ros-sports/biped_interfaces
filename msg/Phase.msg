@@ -4,4 +4,5 @@ int32 RIGHT_STANCE=1
 int32 LEFT_SWING=1
 int32 DOUBLE_STANCE=2
 
+std_msgs/Header header
 int32 phase
