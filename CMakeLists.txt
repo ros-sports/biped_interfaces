@@ -13,7 +13,7 @@ find_package(geometry_msgs REQUIRED)
 
 rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Phase.msg"
-  "msg/SoleTransforms.msg"
+  "msg/SolePoses.msg"
   DEPENDENCIES std_msgs geometry_msgs
 )
 
