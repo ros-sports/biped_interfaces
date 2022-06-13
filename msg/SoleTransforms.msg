@@ -1,0 +1,2 @@
+geometry_msgs/Transform l_sole
+geometry_msgs/Transform r_sole
